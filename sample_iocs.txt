@@ -1,0 +1,13 @@
+Suspicious communication detected from IP 185.243.115.84.
+
+Malicious domain observed:
+paypal-login-security.com
+
+Suspicious URL:
+http://paypal-login-security.com/update
+
+Possible malware hash:
+44d88612fea8a8f36de82e1278abb02f
+
+Another SHA256:
+d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2
